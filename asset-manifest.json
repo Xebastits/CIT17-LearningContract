@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Xebastits/CIT17-LearningContract/static/css/main.aba8319b.css",
+    "main.js": "/Xebastits/CIT17-LearningContract/static/js/main.7f243877.js",
+    "index.html": "/Xebastits/CIT17-LearningContract/index.html",
+    "main.aba8319b.css.map": "/Xebastits/CIT17-LearningContract/static/css/main.aba8319b.css.map",
+    "main.7f243877.js.map": "/Xebastits/CIT17-LearningContract/static/js/main.7f243877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba8319b.css",
+    "static/js/main.7f243877.js"
+  ]
+}
